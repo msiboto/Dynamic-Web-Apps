@@ -50,15 +50,12 @@
   }
   
   .counter__value{
-    color:#ec1919;
-    width: 100%;
-    height: 15rem;
-    font-weight: 900;
-    font-size: 6rem;    
-    text-align: center;       
-    border-width: 0;
-    border-bottom: 1px solid var(--color-light-gray);
-    background: none;
+      color:#ec1919;
+      width: 100%;
+      height: 15rem;
+      text-align: center;
+      font-size: 6rem;
+      font-weight: 900;
   }
   
   .counter__button{
