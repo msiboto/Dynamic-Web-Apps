@@ -16,9 +16,7 @@ export default function App() {
             // eslint-disable-next-line react/jsx-key
             <Card 
                 key={item.id}
-                item={item}
-
-            />
+                item={item} />
         )
     })
     return (
