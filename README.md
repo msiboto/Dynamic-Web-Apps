@@ -65,3 +65,25 @@ To introduce you to this part of the course, please watch the next 3 pre-recorde
 ### Framework Landscape
 ### What is JSX
 ### First React App
+
+
+# DWA_Part 2 Expectations
+
+Part 2 of this course, **JavaScript Frameworks**, will primarily focus on React.js due to its popularity and employability, but the ever-changing JavaScript landscape necessitates adaptability and understanding of the broader ecosystem. While honing React skills, comparisons to other frameworks will help deepen understanding and encourage exploration.
+ 
+
+A strong foundation in programming concepts is crucial for a successful career in software development.
+ 
+
+**PLEASE NOTE** : To complete the DWA course successfully, you are required to:
+
+- Watch all pre-recorded lectures
+- Thoroughly work through all resources and
+- Complete the SCRIMBA React Tutorial: Learn React JS
+ 
+
+To introduce you to this part of the course, please watch the next 3 pre-recorded lectures with our JavaScript Subject Matter Expert, Schalk Venter, as he takes our students through:
+
+### Framework Landscape
+### What is JSX
+### First React App
