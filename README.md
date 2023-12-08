@@ -45,26 +45,6 @@ In Part 2 of this course, **JavaScript Frameworks**, we cover a range of popular
 - have gained the knowledge and skills to use popular JavaScript frameworks and tools to build scalable, maintainable, high-performing web applications. 
 - will be able to analyse and compare different frameworks to determine the best fit for their needs and apply test-driven development practices to ensure the quality of their code.
 
-# DWA_Part 2 Expectations
-
-Part 2 of this course, **JavaScript Frameworks**, will primarily focus on React.js due to its popularity and employability, but the ever-changing JavaScript landscape necessitates adaptability and understanding of the broader ecosystem. While honing React skills, comparisons to other frameworks will help deepen understanding and encourage exploration.
- 
-
-A strong foundation in programming concepts is crucial for a successful career in software development.
- 
-
-**PLEASE NOTE** : To complete the DWA course successfully, you are required to:
-
-- Watch all pre-recorded lectures
-- Thoroughly work through all resources and
-- Complete the SCRIMBA React Tutorial: Learn React JS
- 
-
-To introduce you to this part of the course, please watch the next 3 pre-recorded lectures with our JavaScript Subject Matter Expert, Schalk Venter, as he takes our students through:
-
-### Framework Landscape
-### What is JSX
-### First React App
 
 
 ## DWA Part 2: Expectations
