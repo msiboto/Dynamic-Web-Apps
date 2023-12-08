@@ -1,6 +1,6 @@
-﻿# Dynamic Web Apps
+﻿# Dynamic Web Apps (2023)
 
-## DWA Part 1: Structuring JavaScript (2023)
+## DWA Part 1: Structuring JavaScript 
 
 ### Level | No level
 
@@ -67,7 +67,7 @@ To introduce you to this part of the course, please watch the next 3 pre-recorde
 ### First React App
 
 
-# DWA_Part 2 Expectations
+## DWA_Part 2 Expectations
 
 Part 2 of this course, **JavaScript Frameworks**, will primarily focus on React.js due to its popularity and employability, but the ever-changing JavaScript landscape necessitates adaptability and understanding of the broader ecosystem. While honing React skills, comparisons to other frameworks will help deepen understanding and encourage exploration.
  
